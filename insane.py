@@ -12,7 +12,7 @@ import logging
 import socket
 import pytz  # Import pytz for timezone handling
 
-bot = telebot.TeleBot('7539854535:AAGKn9PPFrSdx9tovy7rI7S_4EYqv6X6JvQ')
+bot = telebot.TeleBot('7689614816:AAFOkVf5BmZhAWlLV1e8en5uv6lZU5EeSYc')
 
 # Admin user IDs
 admin_id = ["962201904"]
